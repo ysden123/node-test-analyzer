@@ -1,0 +1,27 @@
+{
+  "name": "test-analyzer",
+  "version": "0.0.1",
+  "description": "NodeJS analyzer for unit testing.",
+  "main": "./lib",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ysden123/node-test-analyzer.git"
+  },
+  "keywords": [
+    "test",
+    "unit",
+    "analyzer"
+  ],
+  "author": "Yuriy Stul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ysden123/node-test-analyzer/issues"
+  },
+  "homepage": "https://github.com/ysden123/node-test-analyzer#readme",
+  "devDependencies": {
+    "chai": "^3.5.0"
+  }
+}
